@@ -1,0 +1,16 @@
+body{
+	border: 6px solid #008000;
+}
+
+header{
+	border: 6px solid #FF0000;
+}
+header h2{
+	border: 5px solid #FFA500;
+}
+section div.story{
+	border: 5px solid #0000FF;
+}
+div.story h2 span{
+	border: 5px solid #800080;
+}
