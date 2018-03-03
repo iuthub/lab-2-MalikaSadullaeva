@@ -1,15 +1,25 @@
 body{
 	border: 6px solid #008000;
+	background-image: url("images/bg.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-left: 10%;
+	margin-right: 10%;
 }
 
-header{
-	border: 6px solid #FF0000;
+body div.content{
+border: 6px solid #FF0000;
+background-color: #FFFFFF;
 }
 header h2{
 	border: 5px solid #FFA500;
+
 }
 section div.story{
 	border: 5px solid #0000FF;
+		background-color: #E8FBFB;
+		padding: 5px;
+		margin-top: 10px; 
 }
 div.story h2 span{
 	border: 5px solid #800080;
