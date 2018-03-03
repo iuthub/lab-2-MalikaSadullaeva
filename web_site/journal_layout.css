@@ -15,12 +15,24 @@ header h2{
 	border: 5px solid #FFA500;
 
 }
+
+
+
+
 section div.story{
 	border: 5px solid #0000FF;
-		background-color: #E8FBFB;
-		padding: 5px;
-		margin-top: 10px; 
+	background-color: #E8FBFB;
+	padding: 5px;
+	margin-top: 10px; 
+	overflow: auto;
 }
+
 div.story h2 span{
 	border: 5px solid #800080;
+}
+img{
+	float: right;
+}
+header h1, header h2{
+	text-align: right;
 }
