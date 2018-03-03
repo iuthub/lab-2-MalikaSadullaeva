@@ -1,5 +1,5 @@
 body{
-	border: 6px solid #008000;
+	border: 10px solid white;
 	background-image: url("images/bg.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -8,19 +8,17 @@ body{
 }
 
 body div.content{
-border: 6px solid #FF0000;
+border: 6px solid #FFFFFF;
 background-color: #FFFFFF;
 }
-header h2{
-	border: 5px solid #FFA500;
-
+header{
+	background-color: #A8F0F0;
 }
-
-
-
-
+.content h2{
+	font-size: 14pt;
+}
 section div.story{
-	border: 5px solid #0000FF;
+	border: 4px solid #C2E9E9;
 	background-color: #E8FBFB;
 	padding: 5px;
 	margin-top: 10px; 
@@ -28,7 +26,7 @@ section div.story{
 }
 
 div.story h2 span{
-	border: 5px solid #800080;
+	border-bottom: 2px dashed #009097;
 }
 img{
 	float: right;
